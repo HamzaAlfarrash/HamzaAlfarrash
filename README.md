@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi I am Hamza! 👋 Welcome to Github Profile.
+I'm a 3rd-year undergraduate student in Computer Engineering at McGill University. I have experience in web development, machine learning, and software development.
+
+Programming: Java, Python, C, JavaScript, HTML, CSS, SQL
+
+### 👋🏻 Connect with me
+* [Linkedin](https://www.linkedin.com/in/hamzaalfarrash/)
 
 <!--
 **HamzaAlfarrash/HamzaAlfarrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
