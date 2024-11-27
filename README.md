@@ -1,7 +1,7 @@
 # Hi I am Hamza! 👋 Welcome to Github Profile.
 I'm a 3rd-year undergraduate student in Computer Engineering at McGill University. I have experience in web development, machine learning, and software development.
 
-Programming: Java, Python, C, PHP, JavaScript, HTML, CSS, SQL
+Programming: Java, Python, C, PHP, TypeScript, HTML, CSS, React, SQL
 
 ### 👋🏻 Connect with me
 * [Linkedin](https://www.linkedin.com/in/hamzaalfarrash/)
