@@ -1,5 +1,5 @@
 # Hi I am Hamza! 👋 Welcome to Github Profile.
-I'm a 3rd-year undergraduate student in Computer Engineering at McGill University. I have experience in web development, machine learning, and software development.
+I'm a 4th-year undergraduate student in Computer Engineering at McGill University. I have experience in web development, machine learning, and software development.
 
 Programming: Java, Python, C, PHP, TypeScript, HTML, CSS, React, SQL
 
